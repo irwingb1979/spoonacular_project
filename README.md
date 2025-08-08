@@ -16,8 +16,6 @@ A modern, responsive recipe discovery application built with Next.js 14 and the 
 
 **Live Demo**: [Demo](https://spoonacular-project.onrender.com/)
 
-*Note: Replace the placeholder link with your actual deployed demo URL*
-
 ## 🛠️ Tech Stack
 
 - **Framework**: Next.js 14 (App Router)
